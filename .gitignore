@@ -7,6 +7,8 @@
 02_MainLoop/bin/
 02_MainLoop/obj/
 02_MainLoop/.vs/
+02_MainLoop/app.js
+02_MainLoop/app.js.map
 03_WebGL/bin/
 03_WebGL/obj/
 03_WebGL/.vs/
